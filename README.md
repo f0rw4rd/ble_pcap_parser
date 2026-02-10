@@ -52,3 +52,10 @@ Write Request (2 operations):
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
+
+
+## Support
+
+If you find this project useful, consider supporting development:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/f0rw4rd)
